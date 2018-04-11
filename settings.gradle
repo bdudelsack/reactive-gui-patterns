@@ -1,0 +1,1 @@
+include ':mvc', ':mvc_fragment', ':mvp', ':mvvm', ':mvvm_dagger', ':mvvm_reactive', ':mvp_reactive', ':mvvm_reactive_graph'
