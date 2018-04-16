@@ -10,7 +10,7 @@ import de.hs_flensburg.mobilecomputing.mvvm_dagger.ViewModel;
 @Module
 public abstract class MainModule {
     @Provides
-    static Model provideBankingService() {
+    static Model provideModel() {
         return new Model();
     }
 
